@@ -48,4 +48,10 @@
 ## **Tools**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## **Github Stats**
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HusanboyZafarov&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/HusanboyZafarov/github-readme-stats)
+
+## **Top Langs**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusanboyZafarov&layout=compact&theme=highcontrast)](https://github.com/HusanboyZafarov/github-readme-stats)
+
 # Thank You !

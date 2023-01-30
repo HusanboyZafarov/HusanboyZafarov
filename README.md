@@ -1,4 +1,4 @@
-<a href="https://github.com/HusanboyZafarov"><img src="contributions.svg"></a>](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## Hi there 👋 I'm a Front-End Developer
 

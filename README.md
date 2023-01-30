@@ -21,7 +21,7 @@
 
 ## **Back-end**
 ![Python](https://img.shields.io/badge/Python-3-informational)
-![Django](https://img.shields.io/badge/Django-informational
+![Django](https://img.shields.io/badge/Django-informational)
 
 ## **Databases**
 ![SQLite3](https://img.shields.io/badge/SQLite-3-orange)

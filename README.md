@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying on **[Robocode IT Academy](https://robocode.uz)**
 - 🌱 I’m currently learning **[Django](https://www.djangoproject.com/)**
-- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational) ![JavaScript](https://img.shields.io/badge/Javascript-yellow)
+- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-informational) ![JavaScript](https://img.shields.io/badge/Javascript-yellow)
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->

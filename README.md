@@ -1,3 +1,5 @@
+<a href="https://github.com/HusanboyZafarov"><img src="contributions.svg"></a>
+
 ## Hi there 👋 I'm a Front-End Developer
 
 ## Contact me

@@ -40,8 +40,6 @@
 ### - **JavaScript**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![DOM](https://img.shields.io/badge/DOM-Manipulation-yellow)
-![JQuery](https://img.shields.io/badge/Jquery-Lib-red)
-![JQuery](https://img.shields.io/badge/Jquery-Lib-orange)
 ![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-yellow)
 
 

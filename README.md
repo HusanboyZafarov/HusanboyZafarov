@@ -38,7 +38,7 @@
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-5-orange)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-blue)
 ### - **JavaScript**
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow)
 ![DOM](https://img.shields.io/badge/DOM-Manipulation-yellow)
 ![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-yellow)
 

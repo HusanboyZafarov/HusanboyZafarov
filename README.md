@@ -20,8 +20,8 @@
 # Technology stack
 
 ## **Back-end**
-![Python](https://img.shields.io/badge/Python-3-informational)
-![Django](https://img.shields.io/badge/Django-informational)
+![Python](https://img.shields.io/badge/Python-3-informational&logo=Python)
+![Django](https://img.shields.io/badge/Django-0aad48?style=flat-square&logo=Django)
 
 ## **Databases**
 ![SQLite3](https://img.shields.io/badge/SQLite-3-orange)

@@ -1,7 +1,5 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husanboyzafarov" alt="husanboyzafarov" /></a> </p>
-
 ## Hi there 👋 I'm a Front-End Developer
 
 ## Contact me
@@ -52,6 +50,7 @@
 
 ## **Github Stats**
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HusanboyZafarov&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/HusanboyZafarov/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husanboyzafarov" alt="husanboyzafarov" /></a> </p>
 
 ## **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusanboyZafarov&layout=compact&theme=tokyonight)](https://github.com/HusanboyZafarov/)

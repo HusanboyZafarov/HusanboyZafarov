@@ -4,9 +4,16 @@
 
 ## Contact me
 
+<p align="left">
+<!-- <a href="https://linkedin.com/in/nurullosalaydinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurullosalaydinov/" height="30" width="40" /></a> -->
+<a href="https://www.facebook.com/profile.php?id=100070334148353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070334148353" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/husanboy.zafarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/husanboy.zafarov" height="30" width="40" /></a>
+  
 <a href="https://t.me/sam0se">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
 </a>
+</p>
 
 </br>
 

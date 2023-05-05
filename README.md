@@ -29,19 +29,19 @@
 # Technology stack
 
 ## **Back-end**
-![Python](https://img.shields.io/badge/Python-3-2F6086-D0AF3E)
-![Django](https://img.shields.io/badge/Django-0aad48?style=flat-square&logo=Django)
+![Python](https://img.shields.io/badge/Python-3-2F6086)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=Django)
 
 ## **Databases**
-![SQLite3](https://img.shields.io/badge/SQLite-3-orange)
-![Firebase](https://img.shields.io/badge/Firebase-yellow)
+![SQLite3](https://img.shields.io/badge/SQLite-3-044A64)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
 
 
 ## **Front-end**
 ### - **Basic Tools**
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange)
-![Figma](https://img.shields.io/badge/Figma-Design-red)
-![FigJam](https://img.shields.io/badge/FigmaJam-red)
+![Figma](https://img.shields.io/badge/Figma-Design-white)
+![FigJam](https://img.shields.io/badge/FigmaJam-9647F5)
 ### - **Main**
 ![HTML5](https://img.shields.io/badge/HTML5-E65732)
 ![CSS3](https://img.shields.io/badge/CSS3-189CED)

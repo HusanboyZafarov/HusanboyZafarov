@@ -22,10 +22,10 @@
 
 ## About me
 
-- 🔭 I’m currently working at **[Texnopark](https://t.me/yoshlartexnoparki)**
+- 👨‍💻 I’m currently working at **[Texnopark](https://t.me/yoshlartexnoparki)**
 - 🔭 I studied at **[Robocode IT Academy](https://robocode.uz)**
 - 🌱 I’m currently learning **[Vue3](https://vuejs.org/)**
-- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3-informational) ![JavaScript](https://img.shields.io/badge/Javascript-yellow) ![HTML5](https://img.shields.io/badge/html5-orange)
+- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3-informational) ![JavaScript](https://img.shields.io/badge/Javascript-yellow) ![HTML5](https://img.shields.io/badge/html5-orange) ![CSS](https://img.shields.io/badge/css-blue)
 
 # Technology stack
 

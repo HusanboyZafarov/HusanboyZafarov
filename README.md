@@ -43,15 +43,15 @@
 ![Figma](https://img.shields.io/badge/Figma-Design-red)
 ![FigJam](https://img.shields.io/badge/FigmaJam-red)
 ### - **Main**
-![HTML5](https://img.shields.io/badge/HTML-5-informational)
-![CSS3](https://img.shields.io/badge/CSS-3-informational)
+![HTML5](https://img.shields.io/badge/HTML5-E65732)
+![CSS3](https://img.shields.io/badge/CSS3-189CED)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-orange)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-712CF9)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-blue)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38bdf8)
 ### - **JavaScript**
-![JavaScript](https://img.shields.io/badge/Javascript-yellow)
-![DOM](https://img.shields.io/badge/DOM-Manipulation-yellow)
-![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-yellow)
+![JavaScript](https://img.shields.io/badge/Javascript-F7E01D)
+![DOM](https://img.shields.io/badge/DOM-Manipulation-F7E01D)
+![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-F7E01D)
 
 
 ## **Tools**

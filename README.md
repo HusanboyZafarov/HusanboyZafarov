@@ -30,7 +30,7 @@
 
 ## **Back-end**
 ![Python](https://img.shields.io/badge/Python-3-FFDB63)
-![Django](https://img.shields.io/badge/Django-0C4B33&logo=Django)
+![Django](https://img.shields.io/badge/Django-0C4B33)
 
 ## **Databases**
 ![SQLite3](https://img.shields.io/badge/SQLite-3-044A64)

@@ -22,12 +22,10 @@
 
 ## About me
 
-- 🔭 I’m currently studying on **[Robocode IT Academy](https://robocode.uz)**
-- 🌱 I’m currently learning **[Django](https://www.djangoproject.com/)**
-- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3-informational) ![JavaScript](https://img.shields.io/badge/Javascript-yellow)
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently working at **[Texnopark](https://t.me/yoshlartexnoparki)**
+- 🔭 I studied at **[Robocode IT Academy](https://robocode.uz)**
+- 🌱 I’m currently learning **[Vue3](https://vuejs.org/)**
+- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3-informational) ![JavaScript](https://img.shields.io/badge/Javascript-yellow) ![HTML5](https://img.shields.io/badge/html5-orange)
 
 # Technology stack
 

@@ -45,7 +45,7 @@
 ### - **Main**
 ![HTML5](https://img.shields.io/badge/HTML5-E65732)
 ![CSS3](https://img.shields.io/badge/CSS3-189CED)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-orange)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-189CED)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-712CF9)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38bdf8)
 ### - **JavaScript**

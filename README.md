@@ -33,13 +33,13 @@
 ![Django](https://img.shields.io/badge/Django-0C4B33)
 
 ## **Databases**
-![SQLite3](https://img.shields.io/badge/SQLite-3-044A64)
+![SQLite3](https://img.shields.io/badge/SQLite-3-3185FC)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
 
 
 ## **Front-end**
 ### - **Basic Tools**
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-DC493A)
 ![Figma](https://img.shields.io/badge/Figma-Design-white)
 ![FigJam](https://img.shields.io/badge/FigmaJam-9647F5)
 ### - **Main**

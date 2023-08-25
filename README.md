@@ -18,8 +18,6 @@
 </a>
 </p>
 
-</br>
-
 ## About me
 
 - 👨‍💻 I’m currently working at **[Texnopark](https://t.me/yoshlartexnoparki)**

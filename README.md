@@ -20,9 +20,9 @@
 
 ## About me
 
-- 👨‍💻 I’m currently working at **[Texnopark](https://t.me/yoshlartexnoparki)**
-- 🔭 I studied at **[Robocode IT Academy](https://robocode.uz)**
-- 🌱 I’m currently learning **[Vue3](https://vuejs.org/)**
+- 👨‍💻 CEO/Front-End Developer of **QuizmaniaSoftware**
+- 🔭 I studied at **[Robocode IT Academy](https://robocode.uz)** and worked as intern at **[Texnopark](https://t.me/yoshlartexnoparki)**
+- 🌱 Always Tenacious 😃
 
 # Technology stack
 
@@ -33,7 +33,6 @@
 ## **Databases**
 ![SQLite3](https://img.shields.io/badge/SQLite-3-3185FC)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
-
 
 ## **Front-end**
 ### - **Basic Tools**

@@ -33,7 +33,8 @@
 ## **Databases**
 ![SQLite3](https://img.shields.io/badge/SQLite-3-3185FC)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
-![MongoDB](https://img.shields.io/badge/Mongo-DB)
+![MongoDB](https://img.shields.io/badge/Mongo-DB-80ed99)
+![ExpressJS](https://img.shields.io/badge/express-js-ffd60a)
 
 ## **Front-end**
 ### - **Basic Tools**

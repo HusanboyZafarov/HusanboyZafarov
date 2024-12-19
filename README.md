@@ -62,7 +62,7 @@
 ![TypeScript](https://badgen.net/badge/TypeScript/Static%20Typing/3178C6)
 
 ## **Tools**
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://badgen.net/badge/Git/hub/360F4C)
 ![Gitlab](https://badgen.net/badge/Git/LAB/FC6D27)
 
 ## **Github Stats**

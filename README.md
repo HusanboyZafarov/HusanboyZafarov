@@ -20,8 +20,10 @@
 
 ## About me
 
-- 👨‍💻 CEO/Front-End Developer of **QuizmaniaSoftware**
-- 🔭 I studied at **[Robocode IT Academy](https://robocode.uz)** and worked as intern at **[Texnopark](https://t.me/yoshlartexnoparki)**
+- 👨‍💻 Front-End Developer of **QuizmaniaSoftware**
+- 🔭 I studied at **[Robocode IT Academy](https://robocode.uz)** 
+- 💻 I worked as intern at **[Texnopark](https://t.me/yoshlartexnoparki)**
+- 👨‍🏫 Now working as Front-End Mentor at **[Robocode IT Academy](https://robocode.uz)**
 - 🌱 Always Tenacious 😃
 
 # Technology stack
@@ -51,10 +53,17 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-F7E01D)
 ![DOM](https://img.shields.io/badge/DOM-Manipulation-F7E01D)
 ![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-F7E01D)
-
+### - Frameworks & Libraries
+![React](https://badgen.net/badge/React/JS/61DAFB)
+![React Query](https://badgen.net/badge/React/Query/FF4154)
+![Chakra UI](https://badgen.net/badge/Chakra/UI/319795)
+![Material UI](https://badgen.net/badge/Material/UI/007FFF)
+### - TypeScript
+![TypeScript](https://badgen.net/badge/TypeScript/Static%20Typing/3178C6)
 
 ## **Tools**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Gitlab](https://badgen.net/badge/Git/LAB/FC6D27)
 
 ## **Github Stats**
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HusanboyZafarov&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/HusanboyZafarov/)

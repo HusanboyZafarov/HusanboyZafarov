@@ -5,7 +5,7 @@
 ## Contact me
 
 <p align="left" style="display: flex;">
-<!-- <a href="https://linkedin.com/in/nurullosalaydinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurullosalaydinov/" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/xusan-zaffar-370a87233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurullosalaydinov/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100070334148353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070334148353" height="22px" width="22px" /></a>
   
 <a href="https://www.instagram.com/husanboy.zafarov" target="blank">

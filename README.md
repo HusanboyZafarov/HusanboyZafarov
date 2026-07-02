@@ -1,6 +1,6 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-## Hi there 👋 I'm a Front-End Developer
+## Hi there 👋 I'm a Software Engineer
 
 ## Contact me
 
@@ -19,7 +19,7 @@
 
 ## About me
 
-- 👨‍💻 Front-End Developer of **QuizmaniaSoftware**
+- 👨‍💻 Front-End Developer of **INFOSTACK LLC**
 - 🔭 I studied at **[Robocode IT Academy](https://robocode.uz)** 
 - 💻 I worked as intern at **[Texnopark](https://t.me/yoshlartexnoparki)**
 - 👨‍🏫 Now working as Front-End Mentor at **[Robocode IT Academy](https://robocode.uz)**
